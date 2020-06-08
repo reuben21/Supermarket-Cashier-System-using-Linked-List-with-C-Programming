@@ -1,0 +1,3 @@
+C:/Users/Reuben Coutinho/CLionProjects/Supermarket Cashier System/cmake-build-debug/CMakeFiles/Supermarket_Cashier_System.dir
+C:/Users/Reuben Coutinho/CLionProjects/Supermarket Cashier System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Reuben Coutinho/CLionProjects/Supermarket Cashier System/cmake-build-debug/CMakeFiles/rebuild_cache.dir

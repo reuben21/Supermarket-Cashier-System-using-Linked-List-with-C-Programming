@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Reuben Coutinho/CLionProjects/Supermarket Cashier System/main.c
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+malloc.h
+-
+math.h
+-
+
