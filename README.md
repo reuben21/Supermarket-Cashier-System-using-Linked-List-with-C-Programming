@@ -1,5 +1,8 @@
 # Supermarket-Cashier-System-using-Linked-List-with-C-Programming
-This is a mini-project  in C programming  Using Linked List
+<h2>This is a mini-project  in C programming  Using Linked List <br>
+ For the Project I have JetBrains CLion <br>
+ The File Supermarket Cashier System Can be Straight Away Loaded as CLion Project<br>
+</h2>
 <h3>
 Below are the Screenshot to the Project
 <br>
